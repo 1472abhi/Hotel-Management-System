@@ -1,5 +1,5 @@
 # Hotel-Management-System
-## This is my project of Bank Management System in C++ only for TurboC and TurboC++
+## This is my project of Hotel Management System in C++ only for TurboC and TurboC++
 ###### ***P.S: This Project will run only on TurboC and TurboC++ because of some <dos.h> header file fuctions included in the code which are not supported by the new compilers.***
 
 Steps for running the program:
